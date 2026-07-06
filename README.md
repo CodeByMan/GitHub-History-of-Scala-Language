@@ -82,7 +82,7 @@ The GitHub History of the Scala Language/
 ├── The GitHub History of the Scala Language.ipynb
 ├── The GitHub History of the Scala Language.pdf
 ├── The GitHub History of the Scala Language.png
-├── the dithub history.png
+├── the github history.png
 │
 ├── README.md
 ├── LICENSE
@@ -93,7 +93,7 @@ The GitHub History of the Scala Language/
 
 - **Notebook:** `The GitHub History of the Scala Language.ipynb`
 - **PDF Report:** `The GitHub History of the Scala Language.pdf`
-- **Preview Images:** `The GitHub History of the Scala Language.png`, `the dithub history.png`
+- **Preview Images:** `The GitHub History of the Scala Language.png`, `the github history.png`
 - **Datasets:** `pulls.csv`, `pulls_2011-2013.csv`, `pulls_2014-2018.csv`, `pull_files.csv`
 - **Documentation:** `README.md`
 - **License:** `LICENSE`
