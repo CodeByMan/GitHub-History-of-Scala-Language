@@ -30,7 +30,7 @@ The main objective of this project is to investigate Scala's GitHub history and 
 
 ## 🖼️ Project Preview
 
-![Scala GitHub History Preview](the%20dithub%20history.png)
+![Scala GitHub History Preview](the%20github%20history.png)
 
 ## 📊 Dataset
 
